@@ -1,0 +1,128 @@
+[
+  {
+    "name": "JavaScript",
+    "id": 1,
+    "country": "Bangladesh",
+    "Teacher": "Harry",
+    "price": "10000",
+    "Description": "Javascript is one of the most popular language in the world. If anyone can learn Javascript and can understand it very well than he/she can be a full stack web developer near in the future.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+  {
+    "name": "Java",
+    "id": 2,
+    "country": "Bangladesh",
+    "Teacher": "Jon",
+    "price": "10500",
+    "Description": "Java is on of the great language in the world. It can be used to create dekstp application and so many things as well. And it is an OOP language",
+    "img": "https://play-lh.googleusercontent.com/MK12c7vLGVgCgTUvuhlb9b69BwO0-UqsLkvzrHef46xT1ilYoMknDa-Nq0HZwFDX8ts"
+  },
+  {
+    "name": "Python",
+    "id": 3,
+    "country": "Bangladesh",
+    "Teacher": "Thapa Technical",
+    "price": "20000",
+    "Description": "Python is now vary popular language and it can create a bright future. To learn machine learning this language can play a major roll",
+    "img": "https://sololearnuploads.azureedge.net/uploads/courses/1073.png"
+  },
+  {
+    "name": "C Language",
+    "id": 4,
+    "country": "Bangladesh",
+    "Teacher": "Harry",
+    "price": "11000",
+    "Description": "C language is a mother language. If anyone is interested about programming the he/she should start with the C language.",
+    "img": "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"
+  },
+  {
+    "name": "Go",
+    "id": 5,
+    "country": "Bangladesh",
+    "Teacher": "Harry",
+    "price": "15000",
+    "Description": "Go language can be used to develop back end. And it's a bit hard language but if anyone can learn it would have a bright future",
+    "img": "https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg"
+  },
+  {
+    "name": "Rust",
+    "id": 7,
+    "country": "Bangladesh",
+    "Teacher": "Shuvro Baset",
+    "price": "17000",
+    "Description": "Rust is a multi-paradigm, high-level, general-purpose programming language designed for performance and safety, especially safe.",
+    "img": "https://sdtimes.com/wp-content/uploads/2021/02/V37jFq0v_400x400.jpg"
+  },
+  {
+    "name": "Cotling",
+    "id": 8,
+    "country": "Bangladesh",
+    "Teacher": "Harry",
+    "price": "18000",
+    "Description": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's",
+    "img": "https://hypersense-software.com/blogs-assets/21756fe3-8017-922f-7b4c-271a0dea5044/file_1582906717409_680.jpg"
+  },
+  {
+    "name": "Swift",
+    "id": 9,
+    "country": "Bangladesh",
+    "Teacher": "Sagor",
+    "price": "19000",
+    "Description": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.",
+    "img": "https://developer.apple.com/swift/images/swift-og.png"
+  },
+  {
+    "name": "Scela",
+    "id": 10,
+    "country": "Bangladesh",
+    "Teacher": "Jon",
+    "price": "20000",
+    "Description": "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.",
+    "img": "https://www.technotification.com/wp-content/uploads/2019/02/why-learn-scala-programming-language.jpg"
+  },
+  {
+    "name": "Php",
+    "id": 11,
+    "country": "Bangladesh",
+    "Teacher": "Rakib",
+    "price": "21000",
+    "Description": "PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.",
+    "img": "https://www.technotification.com/wp-content/uploads/2018/12/PHP-Programming-Language.jpg"
+  },
+  {
+    "name": "React",
+    "id": 12,
+    "country": "Bangladesh",
+    "Teacher": "Shafayet Hossain",
+    "price": "220000",
+    "Description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. ",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png"
+  },
+  {
+    "name": "Angualr",
+    "id": 13,
+    "country": "Bangladesh",
+    "Teacher": "Harry",
+    "price": "230000",
+    "Description": "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations.",
+    "img": "https://ih1.redbubble.net/image.453958487.1770/pp,840x830-pad,1000x1000,f8f8f8.u3.jpg"
+  },
+  {
+    "name": "Laravel",
+    "id": 14,
+    "country": "Bangladesh",
+    "Teacher": "Nayem",
+    "price": "240000",
+    "Description": "Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.",
+    "img": "https://cms-assets.tutsplus.com/uploads/users/71/courses/854/preview_image/get-started-with-laravel-6-400x277.png"
+  },
+  {
+    "name": "Flask",
+    "id": 15,
+    "country": "Bangladesh",
+    "Teacher": "Shuvro baset",
+    "price": "250000",
+    "Description": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.",
+    "img": "https://miro.medium.com/max/640/1*O0S2-UBv_Y1RRgHgRkg1yQ.png"
+  }
+]
