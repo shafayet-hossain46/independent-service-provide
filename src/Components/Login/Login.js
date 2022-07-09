@@ -21,8 +21,19 @@ const Login = () => {
         const email = e.target.email.value;
         const password = e.target.password.value;
         signInWithEmailAndPassword(email, password)
-        navigate(from, {replace: true})
+        // navigate(from, {replace: true})
       };
+
+
+    if(user){
+        navigate(from, {replace: true})
+    }
+
+
+    //   Google Log In
+    const googleLog = () => {
+        signInWithGoogle()
+    }
     return (
         <div className="w-25 mx-auto mt-5">
       <h2 className="my-4 text-center">Login Into Your Account</h2>
@@ -51,7 +62,7 @@ const Login = () => {
         </div>
       </Form>
         <div className="d-grid mb-2">
-          <Button onClick={()=>signInWithGoogle()} variant="primary" type="submit">
+          <Button onClick={googleLog} variant="primary" type="submit">
             Google Sign In
           </Button>
         </div>

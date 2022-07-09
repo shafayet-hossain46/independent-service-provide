@@ -32,7 +32,7 @@ const Header = () => {
             <Nav.Link as={Link} to="/about" style={{color: "white"}} href="#link">About</Nav.Link>
 
             {
-              user? <> <Nav.Link onClick={logOut}  style={{color: "white"}} href="#link">Log Out</Nav.Link>
+              user? <> <Nav.Link onClick={logOut} className="fw-bold"  style={{color: "white"}} href="#link">Log Out</Nav.Link>
               <Nav.Link style={{color: "white"}} href="#link">as: {user?.displayName}</Nav.Link>
               </> : 
               <Nav.Link as={Link} to="/login" style={{color: "white"}} href="#link">Login</Nav.Link>
