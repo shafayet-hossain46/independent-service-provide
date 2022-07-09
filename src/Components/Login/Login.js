@@ -50,6 +50,11 @@ const Login = () => {
           </Button>
         </div>
       </Form>
+        <div className="d-grid mb-2">
+          <Button onClick={()=>signInWithGoogle()} variant="primary" type="submit">
+            Google Sign In
+          </Button>
+        </div>
       <Link to="/register" style={{textDecoration: "none"}}>Need An Account?</Link>
     </div>
     );
